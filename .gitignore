@@ -1,0 +1,7 @@
+.settings/
+.metadata/
+build/
+bin/
+.classpath
+.project
+.factorypath
